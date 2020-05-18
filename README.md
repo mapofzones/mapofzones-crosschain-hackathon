@@ -17,7 +17,6 @@ We will provide the MoZ overall description below as well as the description of 
 **Dashboard:**
 
 ![alt text](https://github.com/mapofzones/mapofzones-crosschain-hackathon/blob/master/dashboard.png?raw=true)
-mapofzones-crosschain-hackathon
 
 It includes aggregated data of the:
 - number of overall IBC token transfers across all of the chains
