@@ -8,6 +8,7 @@
 
 Map of Zones is a visualizer that displays a galaxy of the interconnected networks built on cosmos-SDK with IBC module. It connects to public RPCs provided by individual networks and parses all of the IBC-transactions that have token transfers in it.
 We will provide the MoZ overall description below as well as the description of the modules we have been actively working on: txs-processor and cosmos-watcher
+
 ***Note*** : This repository was created for the cross-chain hackathon results estimation convenience, the txs-processor and cosmos-watcher further updates arising in the txs-processor and cosmos-watcher repositories (https://github.com/mapofzones/txs-processor and https://github.com/mapofzones/cosmos-watcher).
 
 
@@ -49,6 +50,7 @@ Rating table consist of 8 columns:
 
 
 
+
 # TXs-Processor 
 
 
@@ -64,6 +66,7 @@ The processor gets performs the following functions:
  
 ### Possible errors
 The processor will reject a new block if it has wrong block number (higher, or lower than expected)
+ 
  
  
 
