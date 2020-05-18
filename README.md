@@ -16,7 +16,7 @@ We will provide the MoZ overall description below as well as the description of 
 
 **Dashboard:**
 
-![alt text](https://github.com/mapofzones/mapofzones-crosschain-hackathon/blob/master/dashboard.png?raw=true)
+![alt text](https://github.com/mapofzones/mapofzones-crosschain-hackathon/blob/master/resources/dashboard.png?raw=true)
 
 It includes aggregated data of the:
 - number of overall IBC token transfers across all of the chains
@@ -26,7 +26,7 @@ It includes aggregated data of the:
 
 **Map:** 
 
-![alt text](https://github.com/mapofzones/mapofzones-crosschain-hackathon/blob/master/map.jpg?raw=true)
+![alt text](https://github.com/mapofzones/mapofzones-crosschain-hackathon/blob/master/resources/map.jpg?raw=true)
 
 Each zone is displayed as a circle with animated rays that represent active connection channels. We used different circle sizes to highlight zones that are more ”active” in terms of number of IBC token transfers or transactions (chosen column). Color coding is used to display zones’ the ratio of incoming/outgoing IBC token transfer transactions. 
 Map could be zoomed in and zones could be selected in order to interact with zones that are of a higher interest to you.
@@ -35,7 +35,7 @@ Map could be zoomed in and zones could be selected in order to interact with zon
 
 **Rating Table:**
 
-![alt text](https://github.com/mapofzones/mapofzones-crosschain-hackathon/blob/master/rating_table.png?raw=true)
+![alt text](https://github.com/mapofzones/mapofzones-crosschain-hackathon/blob/master/resources/rating_table.png?raw=true)
 
 Rating table consist of 8 columns:
 - a certain zone name
