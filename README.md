@@ -68,7 +68,7 @@ The processor will reject a new block if it has wrong block number (higher, or l
  
 
 
-#Cosmos-watcher
+# Cosmos-watcher
 
 ### General
 The MoZ watcher is a standalone process that takes 2 input arguments: 
