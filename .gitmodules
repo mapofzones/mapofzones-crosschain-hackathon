@@ -1,0 +1,6 @@
+[submodule "cosmos-watcher"]
+	path = cosmos-watcher
+	url = https://github.com/mapofzones/cosmos-watcher.git
+[submodule "txs-processor"]
+	path = txs-processor
+	url = https://github.com/mapofzones/txs-processor.git
